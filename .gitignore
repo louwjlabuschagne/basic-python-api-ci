@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+*.ini
+
 # Distribution / packaging
 .Python
 build/
@@ -110,6 +112,14 @@ ENV/
 env.bak/
 venv.bak/
 
+# Package ignores
+dev/
+# *.ipynb
+
+# Mac Finder easter egg
+*.DS_Store
+
+*/**/*.DS_Store
 # Spyder project settings
 .spyderproject
 .spyproject

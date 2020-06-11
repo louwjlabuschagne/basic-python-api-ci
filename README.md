@@ -1,6 +1,6 @@
 # Basic Python API CI/CD Pipeline with GitHub Actions
 
-This repo looks at the basics of setting up a django API with unit tests and deploying it to GCP App Engine using GitHub actions.
+This repo looks at the basics of setting up a Django API with unit tests and deploying it to GCP App Engine using GitHub actions.
 
 
 ## Resources

@@ -12,6 +12,6 @@ steps:
 - name: 'gcr.io/cloud-builders/docker'
   args: ['push', 'gcr.io/$PROJECT_ID/django_on_cloudrun:$BRANCH_NAME']
 - name: 'gcr.io/cloud-builders/gcloud'
-  args: [ 'beta', 'run', 'deploy', '--region', 'europe-west1', '--image', 'gcr.io/$PROJECT_ID/django_on_cloudrun', '--platform', 'managed']
+  args: [ 'beta', 'run', 'deploy', '--region', 'europe-west1', '--image', 'gcr.io/$PROJECT_ID/django_on_cloudrun', '--platform', 'managed', 'django_on_cloudrun' ]
 images:
 - 'gcr.io/$PROJECT_ID/django_on_cloudrun'

@@ -24,4 +24,5 @@ jobs:
     - uses: dschep/install-pipenv-action@v1
     - name: Run Tests
       run: |
+        pipenv install
         pipenv run python ./django_on_cloudrun/manage.py test

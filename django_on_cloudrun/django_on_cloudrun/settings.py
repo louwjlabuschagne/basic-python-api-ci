@@ -25,7 +25,7 @@ SECRET_KEY = '2ho28o$a1!4+=v+uthbe+s#sf8fd81u(j(b$(d_!sscfzif!n*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-on-cloudrun-q7tljlrbxa-ew.a.run.app']
+ALLOWED_HOSTS = ['django-on-cloudrun-q7tljlrbxa-uc.a.run.app']
 
 
 # Application definition

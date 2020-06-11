@@ -11,3 +11,5 @@ Below are a list of resources used to put together this repo.
 + Basic of bundling a Django app with Docker: https://docs.docker.com/compose/django/
 + Deploying a prod Django App using Docker: https://github.com/testdrivenio/django-on-docker
 + Deploying a dockerized Django App to GCP: https://medium.com/@lhennessy/running-django-on-google-cloud-run-with-cloudsql-ac8141095b77
++ Setting up GCR to trigger with GitHub: https://medium.com/better-programming/how-to-auto-deploy-an-app-to-google-cloud-run-9a20a183088d
++ Google Cloud SQL https://medium.com/google-cloud/getting-started-with-cloud-sql-for-sql-server-11717a38d11f

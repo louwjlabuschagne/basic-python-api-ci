@@ -14,3 +14,4 @@ Below are a list of resources used to put together this repo.
 + Setting up GCR to trigger with GitHub: https://medium.com/better-programming/how-to-auto-deploy-an-app-to-google-cloud-run-9a20a183088d
 + Google Cloud SQL https://medium.com/google-cloud/getting-started-with-cloud-sql-for-sql-server-11717a38d11f
 + Rest API with Django https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
++ Github actions for django: https://hacksoft.io/github-actions-in-action-setting-up-django-and-postgres/

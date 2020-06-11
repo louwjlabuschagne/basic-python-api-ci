@@ -1,3 +1,5 @@
+![Django CI](https://github.com/louwjlabuschagne/basic-python-api-ci/workflows/Django%20CI/badge.svg?event=push)
+
 # Basic Python API CI/CD Pipeline with GitHub Actions
 
 This repo looks at the basics of setting up a Django API with unit tests and deploying it to GCP App Engine using GitHub actions.

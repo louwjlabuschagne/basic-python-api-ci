@@ -13,3 +13,4 @@ Below are a list of resources used to put together this repo.
 + Deploying a dockerized Django App to GCP: https://medium.com/@lhennessy/running-django-on-google-cloud-run-with-cloudsql-ac8141095b77
 + Setting up GCR to trigger with GitHub: https://medium.com/better-programming/how-to-auto-deploy-an-app-to-google-cloud-run-9a20a183088d
 + Google Cloud SQL https://medium.com/google-cloud/getting-started-with-cloud-sql-for-sql-server-11717a38d11f
++ Rest API with Django https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
